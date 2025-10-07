@@ -3,6 +3,7 @@
 This repository contains the official implementation of the DPVIIL framework presented in our paper:
 
 - **"DPGIIL: A Dirichlet Process Deep Generative Model Framework for Online Structural Anomaly Detection"**
+- "toy_dataset" contains TF vectors of the numerical case study in the paper for testing
 
 and the streaming variational inference-empowered Dirichlet process Gaussian mixture models (with the greedy split-merge scheme) presented in:
 - **"Streaming variational inference-empowered Bayesian nonparametric clustering for online structural damage detection with transmissibility function"**
